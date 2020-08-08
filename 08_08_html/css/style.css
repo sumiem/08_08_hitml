@@ -1,0 +1,37 @@
+
+
+
+/* box1 */
+.box1{
+    /* 背景色をつけてほしい */
+    background: red;
+    /* 幅 w+tabキー*/
+    width: 100px;
+    /* 高さ h + tabキー */
+    height: 100px;
+}
+
+/* box2の背景色は青 */
+.box2{
+    /* 背景色をつけてほしい */
+    background: blue;
+    /* 幅 w+tabキー*/
+    width: 100px;
+    /* 高さ h + tabキー */
+    height: 100px;
+}
+/* box３の背景食は黄色 */
+.box3{
+    /* 背景色をつけてほしい */
+    background: yellow;
+        /* 幅 w+tabキー*/
+        width: 100px;
+        /* 高さ h + tabキー */
+        height: 100px;
+}
+
+
+.box {
+    display: flex;
+    justify-content: center;
+}
